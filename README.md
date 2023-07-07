@@ -1,6 +1,4 @@
-<h1>Hi there 👋</h1>
-<h2>I'm a beginner frontend developer</h2>
-<h3>My skills: JavaScript, React, Node.js, NPM, HTML, CSS</h3> 
+<h1>Hi there 👋</h1> <br> <h2>I'm a beginner frontend developer</h2> <br> <h3>My skills: JavaScript, React, Node.js, NPM, HTML, CSS</h3> 
 
 <!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=700&color=F7AE0E&multiline=true&width=435&height=70&lines=Hi+there!;I'm+a+beginner+frontend+developer" alt="Typing SVG" /></a>-->
 <!--
