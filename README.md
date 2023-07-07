@@ -1,6 +1,6 @@
-<h1>Hi there 👋</h1>
+<!--<h1>Hi there 👋</h1>
 <h2>I'm a beginner frontend developer</h2>
-<h3>My skills: JavaScript, React, Node.js, NPM, HTML, CSS</h3> 
+<h3>My skills: JavaScript, React, Node.js, NPM, HTML, CSS</h3> -->
 ### Languages and Tools:
 ![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
 ![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=dart&logoColor=097CDB)
