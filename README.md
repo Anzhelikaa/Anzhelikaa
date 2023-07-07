@@ -1,4 +1,5 @@
-<h1 align="center">Hi there 👋</h1>
+<!--<h1 align="center">Hi there 👋</h1>-->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=700&color=1DF740&center=true&multiline=true&width=435&height=70&lines=Hi+there!;I'm+a+beginner+frontend+developer" alt="Typing SVG" /></a>
 <!--
 **Anzhelikaa/Anzhelikaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
