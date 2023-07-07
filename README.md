@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
   <h1>Hi there 👋</h1>
-  <h2>I'm a beginner frontend developer</h2>
+  <h3>I'm a beginner frontend developer</h2>
   <div id="badges">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
