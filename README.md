@@ -1,8 +1,7 @@
 
 <div id="header" align="center">
   <h1>Hi there 👋</h1>
-  <h2>I'm a beginner frontend developer</h2>
-  <h2>My skills: JavaScript, React, Node.js, NPM, HTML, CSS</h2>
+  <h2>I'm a beginner frontend developer</h2> <br> <h2>My skills: JavaScript, React, Node.js, NPM, HTML, CSS</h2>
   <h3> Languages and Tools:</h3>
   <div id="badges">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
