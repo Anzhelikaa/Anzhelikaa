@@ -3,10 +3,10 @@
   <h1>Hi there 👋</h1>
   <h3>I'm a beginner frontend developer</h2>
   <div id="badges">
-    <a href="your-linkedin-URL">
+    <a href="https://vk.com/hha_ann">
       <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
     </a>
-    <a href="your-youtube-URL">
+    <a href="https://t.me/anzhham">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
   </div>
