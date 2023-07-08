@@ -32,6 +32,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anzhelikaa&layout=compact&theme=vision-friendly-dark)
 <h2>My skills: JavaScript, React, Node.js, NPM, HTML, CSS</h2>
 <!--
 **Anzhelikaa/Anzhelikaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
