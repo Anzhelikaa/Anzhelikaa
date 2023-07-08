@@ -3,9 +3,12 @@
   <h1>Hi there 👋</h1>
   <h3>I'm a beginner frontend developer</h2>
   <div id="badges">
-    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
-<!--     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/> -->
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <a href="your-linkedin-URL">
+      <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
+    </a>
+    <a href="your-youtube-URL">
+      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    </a>
   </div>
 </div>
 
@@ -22,7 +25,6 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -35,7 +37,7 @@
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anzhelikaa&layout=compact&theme=vision-friendly-dark)
-<h2>My skills: JavaScript, React, Node.js, NPM, HTML, CSS</h2>
+
 <!--
 **Anzhelikaa/Anzhelikaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
